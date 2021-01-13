@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Telemedicine</string>
+    <string name="splash_name">Telemedicine</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_text">Lorem ipsum dolor sit amet, conse
+                                ctetur adipiscing elit, t. Ut enim ad veni
+                                am, quis nostrud exercitation ullamco
+    </string>
+    <string name="welcome_text1">Lorem ipsum dolor sit amet, conse</string>
+    <string name="welcome_text2">ctetur adipiscing elit, t. Ut enim ad ven</string>
+    <string name="welcome_text3">am, quis nostrud exercitation ullamco</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="urgent">Urgent</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="password">Password</string>
+    <string name="add_photos">ADD PHOTOS</string>
+    <string name="full_name">Full Name</string>
+    <string name="full_name_input_text">Your Full Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="birthday_input_text">dd/mm/yy</string>
+    <string name="email">Email</string>
+    <string name="email_input_text">Your Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_number_input_text">Your Phone number</string>
+    <string name="location_adress">Location/Adress</string>
+    <string name="location_adress_input_text">Your Location</string>
+    <string name="next">Next</string>
+    <string name="notification">Notification</string>
+    <string name="schedule">Schedule</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="very_urgent">very urgent</string>
+    <string name="name">Name</string>
+    <string name="name_input_text">Your Name</string>
+    <string name="desease">Desease</string>
+    <string name="desease_input_text">What is your illness</string>
+    <string name="location">Location</string>
+    <string name="location_input_text">Where your location</string>
+    <string name="description">Description (Optional)</string>
+    <string name="description_input_text">Describe Here</string>
+    <string name="request">Request</string>
+    <string name="request_approved_title">Your Request Has Been Approved</string>
+    <string name="request_details">Request Details</string>
+    <string name="name_example_text">Jojon Suehndra</string>
+    <string name="desease_example_text">Sore Eyes</string>
+    <string name="location_example_text">St. Broxlyn 212</string>
+    <string name="description_example_text">Aku ingin menjadi setitik awan kecildi langint bersama mentari yaga hah</string>
+    <string name="doctor">Doctor</string>
+    <string name="filter">Filter</string>
+    <string name="speciality">Speciality</string>
+    <string name="confirm">Confirm</string>
+    <string name="short_description">Short Description</string>
+    <string name="cancel_request">Cancel Request</string>
+    <!--    Front-End MockUp-->
+    <string-array name="names">
+        <item>Dudung Sokmati</item>
+        <item>Nunung Brandon</item>
+        <item>Udin Batakooran</item>
+    </string-array>
+    <string-array name="rating">
+        <item>4.9</item>
+        <item>4.2</item>
+        <item>3.9</item>
+    </string-array>
+    <string-array name="speciality">
+        <item>Eye Specialist</item>
+        <item>Eye Specialist</item>
+        <item>Eye Specialist</item>
+    </string-array>
+    <string-array name="location">
+        <item>St Bronxlyn 212</item>
+        <item>St Bronxlyn 212</item>
+        <item>St Bronxlyn 212</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_theo">Hello Theo</string>
+</resources>

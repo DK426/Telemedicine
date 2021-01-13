@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorBorderInputText</item>
+    </style>
+    <style name="Navigation" parent="Widget.Design.BottomNavigationView">
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">3dp</item>
+        <item name="android:textSize">9sp</item>
+    </style>
+    <style name="WhiteMaterial" parent="Theme.MaterialComponents">
+        <item name="color">@color/colorPrimary</item>
+    </style>
+    <style name="BottomNavigationView.InActiveTextSize" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="BottomNavigationView.ActiveTextSize" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">10sp</item>
+    </style>
+</resources>

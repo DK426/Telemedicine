@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#07d45c</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="White">#ffffff</color>
+    <color name="colorBorderInputText">#ced8dc</color>
+    <color name="colorTextSignUp">#37474e</color>
+    <color name="colorTextSecondary">#607c8a</color>
+    <color name="recyclerViewBackground">#eff0f0</color>
+    <color name="recyclerViewBorder">#eceff1</color>
+    <color name="recyclerViewBorderTransparent">#4Deceff1</color>
+    <color name="btnGray">#8fa4ad</color>
+
+</resources>
